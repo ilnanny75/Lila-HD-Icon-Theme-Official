@@ -1,4 +1,5 @@
 # Lila HD Icon Theme (Official 2026 Reboot) 🎨
+![Lila HD Preview](Lila-HD-Icon-theme-3.0-Preview.png)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 **Lila HD** is a professional, high-definition SVG icon theme for Linux. 
