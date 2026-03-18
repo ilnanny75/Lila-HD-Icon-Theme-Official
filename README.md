@@ -40,3 +40,25 @@ Sei un designer? Scarica il file `template.svg` (nella cartella templates) e cre
 
 ## 🛠 Maintainer
 **IlNanny** (Original Creator)
+
+---
+
+## 🌐 Universal Installation / Installazione Universale / Instalación Universal
+*(Gentoo, Slackware, OpenSUSE, Arch, etc.)*
+
+### 🇺🇸 English
+If your distribution is not listed, use the universal script:
+1. Open terminal in the folder.
+2. Run: `chmod +x install.sh && sudo ./install.sh`
+
+### 🇮🇹 Italiano
+Se la tua distribuzione non è tra quelle elencate, usa lo script universale:
+1. Apri il terminale nella cartella.
+2. Esegui: `chmod +x install.sh && sudo ./install.sh`
+
+### 🇪🇸 Español
+Si su distribución no aparece en la lista, use el script universal:
+1. Abra el terminal en la carpeta.
+2. Ejecute: `chmod +x install.sh && sudo ./install.sh`
+
+---
