@@ -1,17 +1,24 @@
-# Lila HD Icon Theme - Official (2026 Reboot) 🎨✨
+# Lila HD Icon Theme (2026 Edition)
 
-[![GitHub license](https://img.shields.io/github/license/ilnanny75/Lila-HD-Icon-Theme-Official)](https://github.com/ilnanny75/Lila-HD-Icon-Theme-Official/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ilnanny75/Lila-HD-Icon-Theme-Official/graphs/commit-activity)
+![Lila HD Preview](Lila-HD-Icon-theme-3.0-Preview.png)
+
+## [ENGLISH]
+A complete and colorful icon theme for Linux desktops, originally created in 2015 and updated for 2026. 
+This version includes fixed index paths, full inheritance, and restored symlinks.
+
+## [ITALIANO]
+Un tema di icone completo e colorato per desktop Linux, creato originariamente nel 2015 e aggiornato per il 2026. 
+Questa versione include percorsi index corretti, ereditarietà completa e simlink ripristinati.
+
+## [ESPAÑOL]
+Un tema de iconos completo y colorido para escritorios Linux, creado originalmente en 2015 e actualizado para 2026. 
+Esta versión incluye rutas de index corregidas, herencia completa y enlaces simbólicos restaurados.
 
 ---
-
-## 🇺🇸 English
-**Lila HD** is a professional, high-definition SVG icon theme for Linux desktops. Originally born from the community and now fully updated for 2026, it features 14 vibrant color variants. It is designed to be clean, scalable, and compatible with all major desktop environments like XFCE, GNOME, KDE, and Mate.
-
-### 📥 Installation via Terminal (Git)
-The fastest way to install and stay updated:
+### 🛠️ Installation / Installazione / Instalación
 ```bash
-git clone [https://github.com/ilnanny75/Lila-HD-Icon-Theme-Official.git](https://github.com/ilnanny75/Lila-HD-Icon-Theme-Official.git)
-cd Lila-HD-Icon-Theme-Official
-chmod +x install.sh
 ./install.sh
+```
+
+### 📄 License / Licenza / Licencia
+Released under **GPL v3** (Software) and **CC BY-SA 4.0** (Icons).
