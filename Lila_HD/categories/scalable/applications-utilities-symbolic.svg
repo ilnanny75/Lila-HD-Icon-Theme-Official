@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-<g transform="translate(-482 -462)" fill="#555" stroke-width="2">
-<rect x="482" y="462" width="6" height="16" rx="2.934" ry="2.986" color="#000000"/>
-<path d="m487.41 462c0.87799 0.71298 1.4688 1.7921 1.4688 3v1h2.125c-0.0742-1.0926 1.2487-2 2-2 0.68073 0 1 0.0117 1 1v1h1.2188c1.2287-0.60001 1.7812-1.9691 1.7812-2.6875 0-0.73589-2.3854-1.3125-3.6875-1.3125z" color="#000000"/>
-<path d="m489 467v4.3125c2.7662 2.6616 6.125 2.4062 6.125 2.4062s0.35286-1.5209-1.9062-4.0312l-2.375-2.6875h-0.625-1.1562c-0.0213 2e-3 -0.0412-2e-3 -0.0625 0zm2.975 2.5318 1.6834 1.7368c-1.799 0.16548-2.1508-0.85626-1.6834-1.7368z" color="#000000"/>
-</g>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width="16" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <metadata id="metadata90"/>
+ <g id="g4953" inkscape:groupmode="layer" inkscape:label="categories" transform="translate(-482.00018,-461.99942)">
+  <rect width="6" id="rect5455" height="16" ry="2.986" rx="2.934" y="462" x="482" fill="#555555" color="#000000" stroke-width="2"/>
+  <path id="path256-4-4" sodipodi:nodetypes="csccccccssc" d="m 487.40645,461.99942 c 0.87799,0.71298 1.46875,1.79213 1.46875,3 l 0,1 2.125,0 c -0.0742,-1.09265 1.2487,-2 2,-2 0.68073,0 1,0.0117 1,1 l 0,1 1.21875,0 c 1.22869,-0.60001 1.78125,-1.96908 1.78125,-2.6875 0,-0.73589 -2.38538,-1.3125 -3.6875,-1.3125 z" inkscape:connector-curvature="0" fill="#555555" color="#000000" stroke-width="2"/>
+  <path id="path249-7-76" sodipodi:nodetypes="cccccccccccc" d="m 489.0002,467 0,4.3125 c 2.76625,2.66159 6.12501,2.40625 6.12501,2.40625 0,0 0.35286,-1.5209 -1.90624,-4.03125 L 490.84396,467 l -0.625,0 -1.15625,0 c -0.0213,0.002 -0.0412,-0.002 -0.0625,0 z m 2.97505,2.53185 1.68345,1.73676 c -1.799,0.16548 -2.15075,-0.85626 -1.68345,-1.73676 z" inkscape:connector-curvature="0" fill="#555555" color="#000000" stroke-width="2"/>
+ </g>
 </svg>
