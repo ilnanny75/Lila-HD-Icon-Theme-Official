@@ -1,13 +1,13 @@
 [Icon Theme]
 Name=Lila HD Purple
-Comment=Professional HD Icon Theme for Linux systems
-Inherits=Adwaita,hicolor
+Comment=Professional HD Icon Theme for Linux systems (2026 Reboot)
+Inherits=Lila_HD,Adwaita,hicolor
 Example=folder-visiting
 
-# Directory structure (Scalable + Fixed sizes)
-Directories=scalable/apps,scalable/places,scalable/mimetypes,scalable/actions,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/status,22x22/apps,48x48/apps
+# Directory structure
+Directories=apps/scalable,places/scalable,mimetypes/scalable,actions/scalable,categories/scalable,devices/scalable,emblems/scalable,emotes/scalable,status/scalableapps/scalable,places/scalable,mimetypes/scalable,actions/scalable,categories/scalable,devices/scalable,emblems/scalable,emotes/scalable,status/scalable
 
-[scalable/apps]
+[apps/scalable]
 Size=64
 Context=Applications
 TargetSize=256
@@ -15,7 +15,7 @@ Type=Scalable
 MinSize=16
 MaxSize=512
 
-[scalable/places]
+[places/scalable]
 Size=64
 Context=Places
 TargetSize=256
@@ -23,7 +23,7 @@ Type=Scalable
 MinSize=16
 MaxSize=512
 
-[scalable/mimetypes]
+[mimetypes/scalable]
 Size=64
 Context=MimeTypes
 TargetSize=256
@@ -31,7 +31,7 @@ Type=Scalable
 MinSize=16
 MaxSize=512
 
-[scalable/actions]
+[actions/scalable]
 Size=64
 Context=Actions
 TargetSize=256
@@ -39,7 +39,7 @@ Type=Scalable
 MinSize=16
 MaxSize=512
 
-[scalable/categories]
+[categories/scalable]
 Size=64
 Context=Categories
 TargetSize=256
@@ -47,12 +47,34 @@ Type=Scalable
 MinSize=16
 MaxSize=512
 
-[22x22/apps]
-Size=22
-Context=Applications
-Type=Fixed
+[devices/scalable]
+Size=64
+Context=Devices
+TargetSize=256
+Type=Scalable
+MinSize=16
+MaxSize=512
 
-[48x48/apps]
-Size=48
-Context=Applications
-Type=Fixed
+[emblems/scalable]
+Size=64
+Context=Emblems
+TargetSize=256
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[emotes/scalable]
+Size=64
+Context=Emotes
+TargetSize=256
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[status/scalable]
+Size=64
+Context=Status
+TargetSize=256
+Type=Scalable
+MinSize=16
+MaxSize=512
