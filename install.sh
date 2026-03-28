@@ -17,6 +17,7 @@ echo -e "${BLUE}--------------------------------------------------${NC}"
 echo "En: Installing Lila HD Icons..."
 echo "It: Installazione di Lila HD Icons..."
 echo "Es: Instalando Lila HD Icons..."
+echo "Nl: Bezig met installeren van Lila HD-pictogrammen…"
 
 sudo mkdir -p /usr/share/icons
 sudo cp -r Lila_HD* /usr/share/icons/
@@ -25,4 +26,5 @@ echo -e "${GREEN}--------------------------------------------------${NC}"
 echo "En: Done! Select the theme in your settings."
 echo "It: Fatto! Seleziona il tema nelle impostazioni."
 echo "Es: ¡Hecho! Selecciona el tema en los ajustes."
+echo "Nl: Klaar! Kies het thema in de instellingen."
 echo -e "${GREEN}--------------------------------------------------${NC}"
