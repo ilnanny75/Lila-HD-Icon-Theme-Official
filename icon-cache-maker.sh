@@ -1,9 +1,9 @@
 #!/bin/bash
 #================================================
 #   O.S.      : Gnu Linux                       =
-#   Author    : Cristian Pozzessere    = ilnanny =
+#   Author    : Cristian Pozzessere  =ilnanny   =
 #   D.A.Page  : http://ilnanny.deviantart.com   =
-#   Github    : https://github.com/ilnanny 75    =
+#   Github    : https://github.com/ilnanny 75   =
 #================================================
 echo "          Making of icon cache for Lila-HD-icon-theme"
 echo "================================================================="

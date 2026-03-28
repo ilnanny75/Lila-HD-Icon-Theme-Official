@@ -9,4 +9,11 @@
 *.directory
 **/.directory
 \.icon-theme\.cache
+icon-theme.cache
 readme.html
+
+EXPORT_PACCHETTI/
+*.deb
+*.rpm
+*.tar.gz
+build_log.txt
