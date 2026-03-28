@@ -1,4 +1,10 @@
 #!/bin/bash
+#================================================
+#   O.S.      : Gnu Linux                       =
+#   Author    : Cristian Pozzessere   = ilnanny =
+#   D.A.Page  : http://ilnanny.deviantart.com   =
+#   Github    : https://github.com/ilnanny75    =
+#================================================
 # --- Colors ---
 GREEN='\033[0;32m'
 BLUE='\033[0;34m'
