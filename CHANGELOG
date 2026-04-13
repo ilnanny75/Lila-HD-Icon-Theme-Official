@@ -1,0 +1,5 @@
+v3.0 (2026-03)
+- Optimized all SVG icons using Scour (Python)
+- Modernized index.theme structure for GNOME 46+ and KDE Plasma 6
+- Added universal install.sh with multi-distro support
+- Added Debian/Ubuntu (.deb) packaging support
