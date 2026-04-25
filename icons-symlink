@@ -1,0 +1,31 @@
+#!/bin/bash
+#================================================
+#   Lila HD - Symlink Generator (SVG Version)
+#================================================
+
+SCRIPT_DIR=$(dirname "$0")
+# Puntiamo alla cartella corretta del tema
+TARGET_DIR="$SCRIPT_DIR/Lila_HD"
+
+usage() {
+    echo "Usage: $0 <context> <symlink_name> <target_icon_file>"
+    echo "Example: $0 places folder-bin folder-script.svg"
+    exit 2
+}
+
+[ -n "$3" ] || usage
+
+CONTEXT="$1"
+SYMLINK_NAME="${2%.svg}.svg" # Forza l'estensione .svg
+TARGET_ICON="$3"
+
+# Percorso della cartella scalable basato sul tuo index.theme
+DEST_PATH="$TARGET_DIR/$CONTEXT/scalable"
+
+if [ -d "$DEST_PATH" ]; then
+    echo "Creating symlink in $CONTEXT..."
+    ln -sfv "$TARGET_ICON" "$DEST_PATH/$SYMLINK_NAME"
+else
+    echo "Error: Directory $DEST_PATH not found."
+    exit 1
+fi
