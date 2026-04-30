@@ -27,7 +27,7 @@ sudo mkdir -p /usr/share/icons
 # 2. Copia dei file
 sudo cp -r Lila_HD* /usr/share/icons/
 
-# 3. Correzione permessi (lettura per tutti, esecuzione per le cartelle)
+# 3. Correzione permessi
 sudo chmod -R 755 /usr/share/icons/Lila_HD*
 
 # 4. Aggiornamento Cache per ogni variante installata
